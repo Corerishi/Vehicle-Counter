@@ -14,3 +14,8 @@ To run this project, you need the following libraries installed:
 Python 3.x
 OpenCV (cv2)
 NumPy
+
+
+Output:
+
+![alt text](image.png)

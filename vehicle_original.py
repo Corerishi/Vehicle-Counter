@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 
-video_path = 'D:/Vehicle/video.mp4'  
+video_path = 'D:/Vehicle-Detection/video.mp4'  
 cap = cv2.VideoCapture(video_path)
 
 min_width_react = 80   #min width rectangle
